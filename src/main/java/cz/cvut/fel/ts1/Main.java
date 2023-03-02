@@ -2,6 +2,8 @@ package cz.cvut.fel.ts1;
 
 public class Main {
 
+    //test
+
     public static void main(String[] args) {
 //        System.out.println("Factorial of 5 (R): "+factorialRecursive(5));
         System.out.println("Factorial of 5 (I): "+factorialIterative(5));
